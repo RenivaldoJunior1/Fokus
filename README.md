@@ -1,7 +1,7 @@
 O objetivo deste projeto foi criar um cronômetro funcional com a possibilidade de alternar entre períodos de estudo e descanso, utilizando um design responsivo e interativo. 
 A integração de música de fundo e a alternância visual de contexto enriquecem a experiência do usuário.
 
-okus é um cronômetro interativo projetado para otimizar a produtividade durante sessões de estudo, 
+Fokus é um cronômetro interativo projetado para otimizar a produtividade durante sessões de estudo, 
 utilizando a técnica Pomodoro. O projeto permite ao usuário alternar entre tempos de foco e pausas curtas ou longas. Além disso, 
 o usuário pode ativar música de fundo para melhorar a concentração durante o foco. O design é simples e visualmente agradável, c
 om imagens dinâmicas que refletem o estado atual (foco ou descanso). A funcionalidade inclui contagem regressiva, botões para alternar 
